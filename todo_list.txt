@@ -1,0 +1,5 @@
+・Rubyのバージョン確定
+・Railsのバージョン確定
+・Rspecのバージョン確定
+・Gemfile.lock をgitignoreするかどうか？
+　->　たぶんコンフリクトする
